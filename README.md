@@ -39,5 +39,6 @@ Replace `[server_address]` with the IP address or domain name of the IRC server 
 - **Channel Management: Users can create, join, leave, and delete chat channels.**
 
 ## Contributors
-[pschemit](https://github.com/pschemit)
+[pschemit](https://github.com/Monkey42Github)
+
 [yboughan](https://github.com/YoussefBOUGHANMI)
